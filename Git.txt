@@ -1,0 +1,13 @@
+Git Hub Commands :
+1. To connect local pc to github account 
+    >> git config --global user.name "amitatall4u"
+    >> git config --global user.email "amitatall4u@gmail.com"
+2. To color automatic suggestion :
+    >> git config --global color.ui auto
+3. Mandatory Commands :
+    >> git init 
+4. Remote connection for our application :
+    >> git remote add origin https://github.com/amitatall4u/GitDemo.git
+5. To Pull a request 
+    >> git pull origin main
+    
